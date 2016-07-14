@@ -54,11 +54,11 @@ services = {
          "label": "SingleSignOn",
          "plan": "standard",
          "credentials": {
-            "secret": "hFcAvkgTuM",
-            "tokenEndpointUrl": "https://sso06072016-1a7k2mfm8j-co15.iam.ibmcloud.com/idaas/oidc/endpoint/default/token",
-            "authorizationEndpointUrl": "https://sso06072016-1a7k2mfm8j-co15.iam.ibmcloud.com/idaas/oidc/endpoint/default/authorize",
-            "issuerIdentifier": "sso06072016-1a7k2mfm8j-co15.iam.ibmcloud.com",
-            "clientId": "eq0nXBRECJ",
+            "secret": "YOUR SECRET KEY",
+            "tokenEndpointUrl": "YOUR ENDPOINT",
+            "authorizationEndpointUrl": "YOUR AUTHORIZATION",
+            "issuerIdentifier": "YOUR Issuer ID",
+            "clientId": "YOUR CLIENT ID",
             "serverSupportedScope": [
                "openid"
             ]
